@@ -2,7 +2,7 @@
 
 ## to do
 
-- [ ] estrutura do projeto
+- [x] estrutura do projeto
 - [ ] componente de input
 - [ ] componente de botão
 - [ ] tela de login
